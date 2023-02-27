@@ -1,0 +1,36 @@
+.title{
+    color:rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    }
+
+.titulos{
+    color: rgb(43, 25, 162);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    width: 40%;
+    margin-left: 20px;
+}
+
+.textos{  
+color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    width: 80%;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    
+}
+
+.body{
+border: 10px solid rgb(43, 25, 162);
+background-color: aquamarine;
+padding: 5px;
+width:1000px;
+height: 1000 px;
+text-align: justify;
+}
